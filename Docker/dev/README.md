@@ -38,4 +38,4 @@ cd app
 firebase init
 ```
 
-choose build as public directory for deployment
+choose ./app/build as public directory for deployment
