@@ -1,5 +1,6 @@
 {
   "projects": {
-    "staging": "react-firebase-demo-e50b4"
+    "staging": "react-firebase-demo-e50b4",
+    "default": "react-firebase-demo-e50b4"
   }
 }

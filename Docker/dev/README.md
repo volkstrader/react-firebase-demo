@@ -24,3 +24,18 @@ docker exec -it <container name> /bin/bash
 ```
 firebase login
 ```
+
+## Initialize react app
+
+```
+create-react-app app
+```
+
+### Initialize firebase within react app
+
+```
+cd app
+firebase init
+```
+
+choose build as public directory for deployment
