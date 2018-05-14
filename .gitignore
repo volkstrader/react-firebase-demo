@@ -59,3 +59,5 @@ typings/
 
 # All local batch file
 *.bat
+.gitconfig
+.bash_history
