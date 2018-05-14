@@ -1,0 +1,34 @@
+{
+	"analytics-uuid": "daeba94f-98d8-462f-9e9a-f84cb9624502",
+	"motd": {
+		"minVersion": "3.0.5"
+	},
+	"motd.fetched": 1526261334252,
+	"usage": true,
+	"user": {
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "108187901249959642361",
+		"email": "hcsoftech@gmail.com",
+		"email_verified": true,
+		"at_hash": "sCYjSWDOfinmkM9P1MBcfg",
+		"exp": 1526265322,
+		"iss": "accounts.google.com",
+		"iat": 1526261722
+	},
+	"tokens": {
+		"expires_at": 1526265395691,
+		"refresh_token": "1/6WBCaqfcWSUwpvXuiELc2-7D6HkhGpN3c6thlvfoF_NxoM6-69Pm5zbsxaVpe474",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.Glu7BZFS3zVkz5Ltz2PmZT4sus1AxLbNA0d7EjiVNHgRae9T4lVJCdPor3qWm4DxtCs6OEISKpbhS6dByuG-kekhtWDTtOJtavJmPyg9B_3kqD03leuOFpa9v55i",
+		"token_type": "Bearer",
+		"expires_in": 3600,
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImE3NDhlOWY3NjcxNTlmNjY3YTAyMjMzMThkZTBiMjMyOWU1NDQzNjIifQ.eyJhenAiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI1NjM1ODQzMzU4NjktZmdyaGdtZDQ3YnFuZWtpajVpOGI1cHIwM2hvODQ5ZTYuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDgxODc5MDEyNDk5NTk2NDIzNjEiLCJlbWFpbCI6Imhjc29mdGVjaEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6Ing1SllPbFVZdWRBYlBkcGVHNkFWTXciLCJleHAiOjE1MjYyNjUzOTcsImlzcyI6ImFjY291bnRzLmdvb2dsZS5jb20iLCJpYXQiOjE1MjYyNjE3OTd9.GSeScV5lbTqhk76KFFM81buIXyGn4NGMBGeYpZ-r6Ys0Bgbv9QW0IPBalRXdsX9OfHxAo-h8hdZn4jsUR7WHhBMGVeqmKtHqWdAHBJv1cgSvdiX4qAKMmIG23LskaBXNz0wRQ6C-W2SxwbCMPlNlXZCxrZ33ljIAvqOvJpOEuMW4vJnw7badKVWMA7UpByvAW85dlOig3wrfU0jeFRBNYW4uM02pFmGs9XB84IWysLrl_V_wADHEonBsFi2Oq4pVJH8fav1G15eZC6v4kGGo0hS7Rx6_jIvghXwmVBbLvq8RTiC_3OnADHmqT5CjMM8jNf1yZGvwIqmo9AZN4BueWA"
+	}
+}
