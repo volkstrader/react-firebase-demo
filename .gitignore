@@ -63,3 +63,4 @@ typings/
 .gitconfig
 .bash_history
 .config
+.ssh
