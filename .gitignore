@@ -57,7 +57,10 @@ typings/
 # dotenv environment variables file
 .env
 
-# All local batch file
+# local files
 *.bat
+*.sh
 .gitconfig
 .bash_history
+.config
+.ssh
